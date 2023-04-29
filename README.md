@@ -23,7 +23,7 @@ Directory TimeStamp is a Python script that timestamps all files, folders, and s
 
 ## Colab Demo
 
-Check out this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankitsamaddar/directory-timestamp/) to see how the script works with your directory.
+Check out this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankitsamaddar/directory-timestamp/blob/main/colab/add_time.ipynb) to see how the script works with your directory.
 
 
 
