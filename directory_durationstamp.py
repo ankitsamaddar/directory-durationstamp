@@ -1,5 +1,5 @@
 """
-Directory TimeStamp: TimeStamp All Files,Folders and Subdirectories
+Directory DurationStamp: Add Duration-Stamp to all files(video/audio) inside folders, and sub-folders in a given directory
 TODO: convert in ipynb with more functions and implement form
 TODO: implement add time to subtitles also
 TODO: convert to module to directly access from shell

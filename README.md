@@ -1,6 +1,6 @@
 # Directory DurationStamp
 
-Directory DurationStamp is a Python script that adds file duration-stamps to all files(video/audio) inside the folders, and subfolders in a given directory. This script can be useful for keeping track of the total duration(run time) of files in each directory and subdirectories.
+Directory DurationStamp is a Python script using FFMPEG,to add file duration-stamps for video/audio files inside the folders, and sub-folders in a given directory. This script can be useful for keeping track of the total duration(run time) of files in each directory and subdirectories.
 
 ## Features
 
@@ -10,13 +10,13 @@ Directory DurationStamp is a Python script that adds file duration-stamps to all
 
 - **Duration-stamp removal:** If duration-stamps have already been applied, the script can remove them to prevent duplication.
 
-- **Multi-directory support:** The script can process multiple directories and generate logs for each one, allowing for easy tracking of changes across multiple projects or systems.
+- **Multi-directory support:** The script can process multiple directories and generate logs for each one, allowing for easy tracking of across multiple directories.
 
 ## Usage
 
 1. Clone the repository.
 2. Install the required packages: [ffmpeg](https://ffmpeg.org/download.html)
-3. Run the script: `python directory_timestamp.py`
+3. Run the script: `python directory_durationstamp.py`
 4. Enter the `<paths_to_the_directories>`
 5. `exit` to stop
 6. The script will output a log file with the timestamps for each file, folder, and subdirectory in the given directory.
