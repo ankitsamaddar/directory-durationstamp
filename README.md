@@ -1,14 +1,14 @@
-# Directory TimeStamp
+# Directory DurationStamp
 
-Directory TimeStamp is a Python script that timestamps all files, folders, and subdirectories in a given directory. This script can be useful for keeping track of the duration of files in each directory and subdirectories.
+Directory DurationStamp is a Python script that adds file duration-stamps to all files(video/audio) inside the folders, and subfolders in a given directory. This script can be useful for keeping track of the total duration(run time) of files in each directory and subdirectories.
 
 ## Features
 
-- **Pattern and mark removal:** The script can remove patterns and marks from file and folder names, allowing for cleaner timestamps.
+- **Pattern and mark removal:** The script can remove patterns and marks from file and folder names, allowing for cleaner duration-stamps.
 
-- **Zero padding:** Directory TimeStamp can add zero padding to the names of files and folders, creating a more uniform naming convention.
+- **Zero padding:** Directory DurationStamp can add zero padding to the names of files and folders, creating a more uniform naming convention.
 
-- **Timestamp removal:** If timestamps have already been applied, the script can remove them to prevent duplication.
+- **Duration-stamp removal:** If duration-stamps have already been applied, the script can remove them to prevent duplication.
 
 - **Multi-directory support:** The script can process multiple directories and generate logs for each one, allowing for easy tracking of changes across multiple projects or systems.
 
@@ -23,7 +23,7 @@ Directory TimeStamp is a Python script that timestamps all files, folders, and s
 
 ## Colab Demo
 
-Check out this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankitsamaddar/directory-timestamp/blob/main/colab/add_time.ipynb) to see how the script works with your directory.
+Check out this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankitsamaddar/directory-durationstamp/blob/main/colab/add_duration.ipynb) to see how the script works with your directory.
 
 
 
